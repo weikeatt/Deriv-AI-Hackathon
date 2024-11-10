@@ -5,7 +5,7 @@ This project is an AI-driven solution for user authentication, developed using P
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Step 1: Run the Application' Data](#step-1-run-the-application)
+  - [Step 1: Run the Application](#step-1-run-the-application)
 - [File Structure](#file-structure)
 
 ## Installation📦
