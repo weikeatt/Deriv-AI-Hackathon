@@ -35,11 +35,11 @@ streamlit run streamlit.py
 ├── OCRBalanceCheck.py                    # Script to check the balance of bank statements via OCR
 ├── ProfileVerification.py                # Script to crawl Google using applicants' profiles with Selenium
 ├── QRValidation.py                       # Script for validating QR codes in submitted documents
-├── Text Recognition AI Training.py       # Script for training AI model for text recognition
+├── Text Recognition AI Training.py       # Script for training AI model for text recognition (Download dataset from [Kaggle Handwritten Alphabets Dataset](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format))
 ├── Text Recognition Sample.jpg           # Sample image for text recognition training
 ├── Utilities Statement.pdf               # Sample utility bill used for testing document analysis
 ├── default_profile_picture.jpg           # Default profile picture for applicants
-├── handwritten_alphabet_model.h5        # Pre-trained model for handwriting recognition
+├── handwritten_alphabet_model.h5         # Pre-trained model for handwriting recognition
 ├── search_results.txt                    # File to store search results
 └── streamlit.py                          # Main entry point to run the web application using Streamlit
 ```
